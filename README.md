@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning C, C++ at 42Vienna
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=hu8813&show_icons=true&theme=gotham&?count_private=true&include_all_commits=true" length="100" width="450"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hu8813&layout=compact&theme=gotham" length="100" width="375">
+
 <!--
 **hu8813/hu8813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
