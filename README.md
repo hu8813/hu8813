@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning C, C++ at 42Vienna
+- 🤔 I’d like to learn Python, Typescript, C#, Unity, Django, Laravel, Apex/Salesforce, Javascript Frameworks (React & ReactNative, Angular, Flutter, Vue.js), Java.
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=hu8813&show_icons=true&theme=gotham&?count_private=true&include_all_commits=true" length="100" width="450"> 
