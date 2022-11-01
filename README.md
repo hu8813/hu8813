@@ -10,7 +10,7 @@
 
 [![huaydin's 42 stats](https://badge42.vercel.app/api/v2/cl8ssydox00060glbjg9af0be/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
 
-[![huaydin's 42 stats](https://badge42.vercel.app/api/v2/cl8ssydox00060glbjg9af0be/stats?cursusId=9&coalitionId=250)](https://github.com/JaeSeoKim/badge42)
+
 
 <!--
 **hu8813/hu8813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
