@@ -4,9 +4,6 @@
 - 🤔 I’d like to learn Python, Typescript, C#, Unity, Django, Laravel, Apex/Salesforce, Javascript Frameworks (React & ReactNative, Angular, Flutter, Vue.js), Java.
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=hu8813&show_icons=true&theme=gotham&?count_private=true&include_all_commits=true" length="100" width="450"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hu8813&layout=compact&theme=gotham" length="100" width="375">
-
 
 [![huaydin's 42 stats](https://badge42.vercel.app/api/v2/cl8ssydox00060glbjg9af0be/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
 
