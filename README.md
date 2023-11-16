@@ -1,25 +1,15 @@
-### Hi there 👋
+# Hi there! 👋
 
-- 🌱 I’m currently learning C, C++ at 42Vienna
-- 🤔 I’d like to learn Python, Typescript, C#, Unity, Django, Laravel, Apex/Salesforce, Javascript Frameworks (React & ReactNative, Angular, Flutter, Vue.js), Java.
+Welcome to my GitHub profile! Currently, I'm diving into the world of programming at [42Vienna](https://www.schule.at/42/).
 
+## 🌱 What I'm Learning
 
+I'm currently sharpening my skills in: ![C Logo](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C&logoColor=white) ![C++ Logo](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 
-[![huaydin's 42 stats](https://badge42.vercel.app/api/v2/cl8ssydox00060glbjg9af0be/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
+## 🤔 What I'd Like to Learn Next
 
+My learning wishlist includes: 
 
+![Python Logo](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Typescript Logo](https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![C# Logo](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white) ![Unity Logo](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=Unity&logoColor=white) ![Laravel Logo](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white) ![React Logo](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white) ![React Native Logo](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=React&logoColor=white) ![Angular Logo](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white) ![Flutter Logo](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white) ![Vue.js Logo](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white) ![Java Logo](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
 
-<!--
-**hu8813/hu8813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to connect with me and share your coding adventures! 🚀
