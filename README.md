@@ -1,5 +1,7 @@
 [![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://techforpalestine.org/learn-more)
 
+[![ReadMeSupportUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
 # Hi there! 👋
 
 Welcome to my GitHub profile! Currently, I'm diving into the world of programming at [42Vienna](https://www.42vienna.com/).
