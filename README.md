@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! Currently, I'm diving into the world of programming at [42Vienna](https://www.42vienna.com/).
+Welcome to my GitHub profile!
 
 ## 🌱 What I'm Learning
 
