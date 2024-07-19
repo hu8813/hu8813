@@ -8,4 +8,6 @@ I'm currently sharpening my skills in: ![C Logo](https://img.shields.io/badge/-C
 
 Feel free to connect with me and share your coding adventures! 🚀
 
+[![Weather Badge](https://raw.githubusercontent.com/hu8813/hu8813/main/badge.md)](https://playing-with-fastapi.vercel.app/weather/vienna)
+
 [![committers.top badge](https://user-badge.committers.top/austria/hu8813.svg)](https://user-badge.committers.top/austria/hu8813)
