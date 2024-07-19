@@ -1,6 +1,5 @@
 ![Salah1221](https://github.com/Salah1221.png) Salah1221
 ![Riyaazct](https://github.com/Riyaazct.png) Riyaazct
-![vintagewang](https://github.com/vintagewang.png) vintagewang
 ![psharifi1997](https://github.com/psharifi1997.png) psharifi1997
 ![onyxvail](https://github.com/onyxvail.png) onyxvail
 ![mustafacagri](https://github.com/mustafacagri.png) mustafacagri
