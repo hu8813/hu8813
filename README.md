@@ -1,4 +1,7 @@
-# Hi there! 👋
+# Hi there from Vienna! 👋 
+
+Here's [![vienna](https://raw.githubusercontent.com/hu8813/hu8813/main/weather_badge.svg)](https://playing-with-fastapi.vercel.app/weather/vienna)
+
 
 Welcome to my GitHub profile!
 
@@ -15,8 +18,6 @@ Feel free to connect with me and share your coding adventures! 🚀
 <!-- FOLLOWERS:END -->
 
 
-
-[![vienna](https://raw.githubusercontent.com/hu8813/hu8813/main/weather_badge.svg)](https://playing-with-fastapi.vercel.app/weather/vienna)
 
 
 
