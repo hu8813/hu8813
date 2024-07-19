@@ -2,7 +2,7 @@ name: Update Followers
 
 on:
   schedule:
-    - cron: '5 * * * *'  # Runs every hour
+    - cron: '10 * * * *'  # Runs every hour
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
