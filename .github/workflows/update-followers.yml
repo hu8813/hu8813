@@ -2,7 +2,7 @@ name: Update Followers
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs every hour
+    - cron: '5 * * * *'  # Runs every hour
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
@@ -16,7 +16,7 @@ jobs:
     - name: Fetch latest followers
       run: |
         curl -s "https://api.github.com/users/hu8813/followers" > followers.json
-        jq -r '.[0:5] | .[] | "![\(.login)](\(.html_url))" + "  " + "\(.login)"' followers.json > followers.md
+        jq -r '.[0:5] | .[] | "![\(.login)](https://github.com/\(.login)) ![\(.login)](https://github.com/\(.login).png)"' followers.json > followers.md
 
     - name: Commit and push changes
       run: |
