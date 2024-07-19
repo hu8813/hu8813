@@ -14,7 +14,9 @@ Feel free to connect with me and share your coding adventures! 🚀
 <!-- FOLLOWERS:END -->
 
 
-[![committers.top badge](https://user-badge.committers.top/austria/hu8813.svg)]([[https://user-badge.committers.top/austria/hu8813](https://raw.githubusercontent.com/hu8813/hu8813/main/weather_badge.svg)](https://playing-with-fastapi.vercel.app/weather/vienna)
+
+[![latest followers](https://raw.githubusercontent.com/hu8813/hu8813/main/weather_badge.svg)](https://user-badge.committers.top/austria/hu8813)
+
 
 
 [![committers.top badge](https://user-badge.committers.top/austria/hu8813.svg)](https://user-badge.committers.top/austria/hu8813)
