@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '11 * * * *'  # Runs every hour
+    - cron: '0 * * * *'  # Runs every hour
 
 jobs:
   update_readme:
@@ -19,11 +19,11 @@ jobs:
       id: read_followers
       run: |
         content=$(cat followers.md)
-        echo "::set-output name=content::$content"
+        echo "$content" >> $GITHUB_ENV
 
     - name: Update README
       run: |
-        followers_content="${{ steps.read_followers.outputs.content }}"
+        followers_content="${content//$'\n'/\\n}"  # Convert newlines for sed
         sed -i.bak -e '/<!-- FOLLOWERS:START -->/,/<!-- FOLLOWERS:END -->/c\
         <!-- FOLLOWERS:START -->\n'"$followers_content"'\n<!-- FOLLOWERS:END -->' README.md
 
