@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 * * * *'  # Runs every hour
+    - cron: '7 * * * *'  # Runs every hour
 
 jobs:
   update_readme:
