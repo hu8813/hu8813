@@ -1,5 +1,1 @@
-![esin](https://github.com/esin) ![esin](https://github.com/esin.png)
-![yoosofan](https://github.com/yoosofan) ![yoosofan](https://github.com/yoosofan.png)
-![palonza](https://github.com/palonza) ![palonza](https://github.com/palonza.png)
-![alegauss](https://github.com/alegauss) ![alegauss](https://github.com/alegauss.png)
-![sleipnir](https://github.com/sleipnir) ![sleipnir](https://github.com/sleipnir.png)
+
