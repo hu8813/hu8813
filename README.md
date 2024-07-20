@@ -1,6 +1,6 @@
-# Hi there from Vienna! 👋 
+# Hi there! 👋 
 
-[![vienna](https://raw.githubusercontent.com/hu8813/hu8813/main/weather_badge.svg)](https://playing-with-fastapi.vercel.app/weather/vienna)
+[![Vienna](https://raw.githubusercontent.com/hu8813/hu8813/main/weather_badge.svg)](https://playing-with-fastapi.vercel.app/weather/vienna)
 
 
 Welcome to my GitHub profile!
