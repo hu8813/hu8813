@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '7 * * * *'  # Runs every hour
+    - cron: '39 * * * *'  # Runs every hour
 
 jobs:
   update_readme:
@@ -18,9 +18,8 @@ jobs:
     - name: Read followers file
       id: read_followers
       run: |
-        content=$(cat followers.md)
         echo "content<<EOF" >> $GITHUB_ENV
-        echo "$content" >> $GITHUB_ENV
+        cat followers.md >> $GITHUB_ENV
         echo "EOF" >> $GITHUB_ENV
 
     - name: Update README
