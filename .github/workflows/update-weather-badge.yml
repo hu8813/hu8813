@@ -2,7 +2,7 @@ name: Update Weather Badge
 
 on:
   schedule:
-    - cron: '43 * * * *'  # Runs every hour
+    - cron: '47 * * * *'  # Runs every hour
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
