@@ -14,7 +14,6 @@ Feel free to connect with me and share your coding adventures! 🚀
 ### Latest Followers
 
 <!-- FOLLOWERS:START -->
-![esin](https://github.com/esin) ![esin](https://github.com/esin.png)
 <!-- FOLLOWERS:END -->
 
 
