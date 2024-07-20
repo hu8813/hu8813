@@ -2,7 +2,7 @@ name: Update Weather Badge
 
 on:
   schedule:
-    - cron: '47 * * * *'  # Runs every hour
+    - cron: '10 * * * *'  # Runs every hour
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
@@ -16,7 +16,7 @@ jobs:
     - name: Fetch weather data
       run: |
         curl -s "https://playing-with-fastapi.vercel.app/weather/vienna" > weather.json
-        jq -r '" " + (.temperature | tonumber | floor | tostring) + "°C, " + .condition' weather.json > weather.txt
+        jq -r '" " + (.temperature | sub("°C"; "") | tonumber | floor | tostring) + "°C, " + .condition' weather.json > weather.txt
 
     - name: Create weather badge
       run: |
