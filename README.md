@@ -11,6 +11,7 @@ I'm currently sharpening my skills in: ![C Logo](https://img.shields.io/badge/-C
 
 Feel free to connect with me and share your coding adventures! 🚀
 
+
 ### Latest Followers
 
 <!-- FOLLOWERS:START -->
