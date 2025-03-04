@@ -2,24 +2,27 @@
 
 [![Vienna](https://raw.githubusercontent.com/hu8813/hu8813/main/weather_badge.svg)](https://playing-with-fastapi.vercel.app/weather/vienna)
 
+## 🚀 About Me
+Developer exploring web development with **Next.js**, building on my C, C++, and Python knowledge.
 
-Welcome to my GitHub profile!
+## 💻 Tech Stack
 
-## 🌱 What I'm Learning
+### Learning:
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-I'm currently sharpening my skills in: ![C Logo](https://img.shields.io/badge/-C-000000?style=flat-square&logo=C&logoColor=white) ![C++ Logo](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=C%2B%2B&logoColor=white) ![Python Logo](https://img.shields.io/badge/-Python-008000?style=flat-square&logo=Python&logoColor=white) 
+### Previous Experience:
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-Feel free to connect with me and share your coding adventures! 🚀
+## 🌱 Current Focus
+- React & Next.js fundamentals
+- Server-side rendering
+- Building full-stack web applications
 
+## 📊 GitHub Stats
 
-
-<!-- FOLLOWERS:START -->
-
-<!-- FOLLOWERS:END -->
-
-
-
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hu8813&show_icons=true&theme=tokyonight)
 
 [![committers.top badge](https://user-badge.committers.top/austria/hu8813.svg)](https://user-badge.committers.top/austria/hu8813)
-
